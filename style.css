@@ -139,7 +139,7 @@ nav .menu {
     cursor: pointer;
 }
 
-a:hover {
+.rodape a:hover {
     background: #683cb54d;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
@@ -154,7 +154,7 @@ a:hover {
     border: 1px solid #683cb55c;
 }
 
-a:active {
+.rodape a:active {
     transform: translateY(2px);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
